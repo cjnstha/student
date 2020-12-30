@@ -1,7 +1,7 @@
 <div class="topbar">
     <div class="topbar-left">
         <div class="logo">
-            <h1><a href="index.html">Flipmarto</a></h1>
+            <h1 class="title">Dashboard</h1>
         </div>
 
     </div>
@@ -11,9 +11,6 @@
         <div class="container">
 
             <div class="navbar-collapse2">
-                <button class="button-menu-mobile open-left">
-                    <i class="fa fa-bars"></i>
-                </button> <h1 class="title">Dashboard</h1>
                 <ul class="nav navbar-nav navbar-right top-navbar">
                     <li>
                         <!-- Search form -->

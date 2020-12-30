@@ -2,14 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Dashboard | Flipmarto - Responsive Bootstrap Admin Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="description" content="">
-    <meta name="keywords"
-          content="Flipmarto bootstrap template, Flipmarto admin, bootstrap,admin template, bootstrap admin,">
-    <meta name="author" content="ThemesGround">
-
     <!-- Base Css Files -->
     <link href="{{url('assets/libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css')}}" rel="stylesheet"/>
     <link href="{{url('assets/libs/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet"/>
@@ -224,26 +219,6 @@
 
 </script>
 
-{{--<script>--}}
-{{--        $(document).ready(function () {--}}
-{{--            $("#registerForm").validate({--}}
-{{--                rules: {--}}
-{{--                    email: {--}}
-{{--                        required: true,--}}
-{{--                        email: true,--}}
-{{--                        remote: "check-email"--}}
-{{--                    }--}}
-{{--                },--}}
-{{--                messages: {--}}
-{{--                    email: {--}}
-{{--                        required: "Please enter your email",--}}
-{{--                        email: "Please enter valid email",--}}
-{{--                        remote: "Email already exists"--}}
-{{--                    }--}}
-{{--                },--}}
-{{--            });--}}
-{{--        });--}}
-{{--    </script>--}}
 
 </body>
 </html>
